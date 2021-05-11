@@ -1,2 +1,2 @@
-# Tryhackme
+># Tryhackme
 writeup for tryhackme
