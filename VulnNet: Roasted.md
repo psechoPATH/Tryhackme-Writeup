@@ -182,7 +182,7 @@ I FOUND CREDENTIALS
 
 >## wmiexec.py
 
-using the new crediantials found
+using the new credeantials found
 ```
 root@ubuntu:~# wmiexec.py vulnnet-rst.local/a-whitehat@10.10.116.57
 Impacket v0.9.23.dev1+20210315.121412.a16198c3 - Copyright 2020 SecureAuth Corporation
