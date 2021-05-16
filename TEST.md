@@ -1,2 +1,0 @@
-># Tryhackme
-writeup for tryhackme
