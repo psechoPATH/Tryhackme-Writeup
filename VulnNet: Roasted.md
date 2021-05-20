@@ -140,7 +140,7 @@ i tried smbclient with T-SKID and his password
 
 
 ```
-root@ubuntu:~# smbclient  -U t-skid \\\\10.10.116.57\\NETLOGON
+root@ubuntu:~# smbclient  -U t-skid \\\\10.10.250.157\\NETLOGON
 Enter WORKGROUP\t-skid's password:
 
 ```
