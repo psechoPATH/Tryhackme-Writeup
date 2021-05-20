@@ -286,6 +286,8 @@ THM{726b[HIDDEN]4ed}
 
 Hashe Dump
 
+DCSync attack
+
 >## secretsdump.py
 
 ```
