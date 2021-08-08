@@ -319,10 +319,12 @@ tommy@incognito:/home/carlJ$
 there is unusual directory .mozilla inside his home directory
 
 we will use the Firefox Decrypt 
+
 it's showing 2 profiles
+
 the second reqeust a password
 
-let's try various common password 
+let's try various common password,
 the correct os password1
 
 
