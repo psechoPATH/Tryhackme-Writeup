@@ -325,7 +325,7 @@ it's showing 2 profiles
 the second reqeust a password
 
 let's try various common password,
-the correct os password1
+the correct is "password1"
 
 
 ```
