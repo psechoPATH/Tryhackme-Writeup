@@ -5,6 +5,9 @@ link room: https://tryhackme.com/room/uranium
 
 Created by hakanbey01
 
+<p align="center">
+  <img src="https://coingeek.com/wp-content/uploads/2019/06/binance-decides-to-block-us-users-but-gives-them-a-back-door.jpg">
+</p>
 
 ## Tasks
  What is the required password for the chat app? 
