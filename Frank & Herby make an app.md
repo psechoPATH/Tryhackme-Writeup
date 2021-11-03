@@ -413,7 +413,7 @@ Nmap done: 1 IP address (1 host up) scanned in 164.95 seconds
 ### And now we can get user.txt
 
 
-## Privilige Escalation.
+## Privilege Escalation.
 
 ![6](https://user-images.githubusercontent.com/74853138/140157969-2449a77c-c196-4afc-bc04-c18044e23027.png)
 
