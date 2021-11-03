@@ -398,7 +398,7 @@ Nmap done: 1 IP address (1 host up) scanned in 164.95 seconds
 ### We can now answer the second question
 
 
-## Enumerate what Fran leave on the site
+## Enumerate what Frank leave on the site
 
 ![3](https://user-images.githubusercontent.com/74853138/140148722-4a2abe87-91b6-488e-8ea5-e3e7f3598e90.png)
 
