@@ -406,7 +406,7 @@ Nmap done: 1 IP address (1 host up) scanned in 164.95 seconds
 
 ![4](https://user-images.githubusercontent.com/74853138/140151111-45e381f4-7044-406a-8233-55b2ebda1b33.png)
 
-### The content is credenatilas the password is encoded in Url. after decode the password, we got credantiuser:password, we can logging with it via SSH.
+### The content is credenatilas the password is encoded in Url. after decode the password, we got credantials, user:password, we can logging with it via SSH.
 
 ![5](https://user-images.githubusercontent.com/74853138/140155646-81d6df8b-0b5b-43d2-8ed4-b1867374a282.png)
 
