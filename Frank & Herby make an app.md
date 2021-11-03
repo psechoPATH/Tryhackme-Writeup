@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://codefresh.io/wp-content/uploads/2017/02/Intro-to-Kubernetes-blog-b-2-1024x268.png">
+</p>
+
 >## Frank & Herby make an app
 ### Link: https://tryhackme.com/room/frankandherby
 
