@@ -53,7 +53,7 @@ Open 10.10.114.171:32000
 
 ```
 
-## Nmpa Scan
+## Nmap Scan
 
 ```
   ~/THM/frank                                                                                                                         took  1m 17s with root@ubuntu
