@@ -473,7 +473,7 @@ microk8s kubectl exec -it hostmount /bin/bash
 
 ![16](https://user-images.githubusercontent.com/74853138/140163552-67c34a91-7b9a-48a9-a41a-6eb28606d7ae.png)
 
-## Voila ! we are root!!
+## Voila !
 
 
 
