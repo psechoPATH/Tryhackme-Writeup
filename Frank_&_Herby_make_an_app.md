@@ -4,6 +4,9 @@
 
 >## Frank & Herby make an app
 ### Link: https://tryhackme.com/room/frankandherby
+### Author: kninja
+### https://tryhackme.com/p/kninja
+
 
 ### Tasks
 1- 
